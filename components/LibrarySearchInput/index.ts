@@ -1,1 +1,1 @@
-export { default } from "./LibrarySearchInput"
+export { default as LibrarySearchInput } from "./LibrarySearchInput"
